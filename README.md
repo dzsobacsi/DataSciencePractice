@@ -1,3 +1,3 @@
 # DataSciencePractice
 
-See the Wiki section for the project notes.
+See the [Wiki](https://github.com/dzsobacsi/DataSciencePractice/wiki) section for the project notes.
